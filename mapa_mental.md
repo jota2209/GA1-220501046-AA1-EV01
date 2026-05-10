@@ -40,7 +40,7 @@ y facilitar investigación,
     global a internet.
 
 - ![](/images/excel.svg)![](/images/word.svg)![](/images/email.svg)<br>
-Ofimática(Oficina + Informática): herramientas
+**Ofimática(Oficina + Informática):** herramientas
 enfocadas en facilitar y automatizar tareas de 
 oficina
     - Procesadores de texto: redacción de 
